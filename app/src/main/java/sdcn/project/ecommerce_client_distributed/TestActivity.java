@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.example.elv_commerce.R;
+import sdcn.project.ecommerce_client_distributed.R;
 
 public class TestActivity extends AppCompatActivity {
 

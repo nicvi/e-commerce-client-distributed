@@ -8,7 +8,7 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.elv_commerce.R;
+import sdcn.project.ecommerce_client_distributed.R;
 
 import java.util.List;
 

@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.elv_commerce.R;
+import sdcn.project.ecommerce_client_distributed.R;
 
 //import com.google.firebase.quickstart.auth.R;
 

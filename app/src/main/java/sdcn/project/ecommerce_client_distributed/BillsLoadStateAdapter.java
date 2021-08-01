@@ -11,7 +11,7 @@ import androidx.paging.LoadState;
 import androidx.recyclerview.widget.RecyclerView;
 // import com.loopwiki.movieground.R;
 // import com.loopwiki.movieground.databinding.LoadStateItemBinding;
-import com.example.elv_commerce.R;
+import sdcn.project.ecommerce_client_distributed.R;
 
 import org.jetbrains.annotations.NotNull;
 

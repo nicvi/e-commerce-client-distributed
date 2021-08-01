@@ -13,7 +13,7 @@ import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.elv_commerce.R;
+import sdcn.project.ecommerce_client_distributed.R;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
