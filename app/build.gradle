@@ -1,5 +1,5 @@
-apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 
@@ -10,7 +10,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.elv_commerce"
+        applicationId "sdcn.project.ecommerce_client_distributed"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
