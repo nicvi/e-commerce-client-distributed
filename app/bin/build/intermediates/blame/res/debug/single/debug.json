@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\font_actor.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\font\\actor.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\font_adamina.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\font\\adamina.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_geolocate.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable-mdpi\\ic_geolocate.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus_sign.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\plus_sign.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placeholder.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_geolocate.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable-anydpi\\ic_geolocate.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_geolocate.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable-xhdpi\\ic_geolocate.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bill_selected.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_bill_selected.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_minus_sign.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\minus_sign.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tick.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\tick.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_buy_now.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_buy_now.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_captioned_image.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\card_captioned_image.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_empty_grocery_cart.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\empty_grocery_cart.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_selected_product.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_selected_product.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trolley_icon.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\trolley_icon.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_selected_category.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_selected_category.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chooser_category.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_chooser_category.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_empty_trolley.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\empty_trolley.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pin.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\pin.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_current_maps.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\fragment_current_maps.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_full_trolley.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\full_trolley.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_geolocate.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable-hdpi\\ic_geolocate.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_captioned_purchased_trolley.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\card_captioned_purchased_trolley.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tick_inside_circle.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\tick_inside_circle.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_productos.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\productos.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_market_stand.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\market_stand.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_factura.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_factura.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\font_arbutus.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\font\\arbutus.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_captioned_image_trolley.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\card_captioned_image_trolley.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_captioned_info_bills.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\card_captioned_info_bills.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_load_state_item.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\load_state_item.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_productos.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_productos.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_wait_layout.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\wait_layout.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_unavailable_products.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\fragment_unavailable_products.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bill.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\bill.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_geolocate.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable-xxhdpi\\ic_geolocate.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_purchase_canceled.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\fragment_purchase_canceled.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_successful_purchase.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\fragment_successful_purchase.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_view_item.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\recycler_view_item.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_just_logo.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\app_just_logo.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_push_pin.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\push_pin.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chooser.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_chooser.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_searchable.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_searchable.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_man_avatar.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\man_avatar.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\font\\poppins.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_telephone.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\telephone.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_auth_menu.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_user_auth_menu.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_online_shop.jpeg.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\online_shop.jpeg"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup_mailpassword.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_signup_mailpassword.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_location.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\menu\\menu_location.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_captioned_unavailable_product.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\card_captioned_unavailable_product.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_full_grocery_cart.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\full_grocery_cart.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_to_cart.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\drawable\\add_to_cart.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_eliminalo.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\eliminalo.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signin_mailpassword.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_signin_mailpassword.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\font_amaranth_bold_italic.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\font\\amaranth_bold_italic.xml"
+    },
+    {
+        "merged": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_empty_trolley.xml.flat",
+        "source": "H:\\nicvi\\Sachen\\Code\\e-commerce-proto\\distributed\\e-commerce-client-distributed\\app\\src\\main\\res\\layout\\activity_empty_trolley.xml"
+    }
+]
