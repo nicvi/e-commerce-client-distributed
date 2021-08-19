@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 import sdcn.project.ecommerce_client_distributed.R;
 
+// una clase solo para probar cosas
 public class TestActivity extends AppCompatActivity {
 
     Button b1;
