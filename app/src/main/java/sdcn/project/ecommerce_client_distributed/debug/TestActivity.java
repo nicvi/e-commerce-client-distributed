@@ -14,6 +14,7 @@ import sdcn.project.ecommerce_client_distributed.R;
 // una clase solo para probar cosas
 // 2do comentario
 // 3er comentario
+// 4to comentario
 public class TestActivity extends AppCompatActivity {
 
     Button b1;
