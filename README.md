@@ -71,13 +71,3 @@ The main collection is called "users," which contains documents named after the 
   <img src="https://listimg.pinclipart.com/picdir/s/170-1705038_orange-text-file-4-icon-document-icon-png.png" width="14px"> mail2@mail2.com
 
   `....`
-
-# Hello, folks! <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fbook_bookmark.png&f=1&nofb=1" width="20px">
-
-
-<img src="https://cdn.onlinewebfonts.com/svg/img_3438.png" width="17px">
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ic_book_48px.svg/2048px-Ic_book_48px.svg.png" width="17px">
-
-<img src="https://listimg.pinclipart.com/picdir/s/170-1705038_orange-text-file-4-icon-document-icon-png.png" width="14px">
