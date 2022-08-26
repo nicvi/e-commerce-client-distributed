@@ -1,5 +1,45 @@
 # e-commerce-distributed
 
+# Performance App Frontend
+
+## Project folder structure
+
+├── public
+│	├── images    
+│	│	├── image.png
+│	├── index.html
+├── src   
+│	├── index.ts
+│	├── domain
+│	│	├── common
+│	│	├── Entities    
+│	│	│	├── Feature-1
+│	│	│	├── Feature-2
+│	│	|── repository (interface)    
+│	│		├── Feature-1            
+│	│		├── Feature-2
+│	├── application
+│	│	├── common
+│	│	├── use cases    
+│	│		├── Feature-1
+│	│		├── Feature-2            
+│	├── infrastructure
+│	│	├── common
+│	│	├── api (services)(calls to backend)
+│	│	├── repository (implementation)    
+│	│		├── Feature-1
+│	│		├── Feature-2
+│	├── presentation (UI)    
+│		├── frameworks, libraries (react)
+│		├── (react)components
+├── test   
+│	├── layer
+│		├── Feature_test
+├── package.json
+├── README.md
+├── yarn.lock
+├── .gitignore
+
 ## Firestore databse structure
 
 The project uses the Firestore database to store users' and offices' information. 
