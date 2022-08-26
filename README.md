@@ -3,7 +3,7 @@
 # Performance App Frontend
 
 ## Project folder structure
-
+```
 ├── public
 |	├── images    
 |	|	├── image.png
@@ -39,6 +39,7 @@
 ├── README.md
 ├── yarn.lock
 ├── .gitignore
+```
 
 ## copied
 
